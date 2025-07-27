@@ -8,7 +8,7 @@
 ## [1.0.0] - 2025-07-25
 
 ### Добавлено
-- �� **Основная система RoadVision AI**
+- 🚗 **Основная система RoadVision AI**
   - Интеграция YOLOv8-seg для детекции объектов
   - OpenVINO модель для сегментации дороги
   - Поддержка 30+ классов объектов улицы
@@ -87,9 +87,9 @@
 
 ## 🔗 Ссылки
 
-- [GitHub Repository](https://github.com/your-username/roadvision-ai)
-- [Issues](https://github.com/your-username/roadvision-ai/issues)
-- [Releases](https://github.com/your-username/roadvision-ai/releases)
+- [GitHub Repository](https://github.com/Ard-Codder/roadvision-ai)
+- [Issues](https://github.com/Ard-Codder/roadvision-ai/issues)
+- [Releases](https://github.com/Ard-Codder/roadvision-ai/releases)
 
 ## 📝 Примечания
 

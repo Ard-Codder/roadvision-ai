@@ -6,7 +6,7 @@
 
 1. **Форкните репозиторий**
    ```bash
-   git clone https://github.com/your-username/roadvision-ai.git
+   git clone https://github.com/Ard-Codder/roadvision-ai.git
    cd roadvision-ai
    ```
 
@@ -195,7 +195,7 @@ class RoadDetectionSystem:
 ### Установка зависимостей разработки
 ```bash
 # Клонирование
-git clone https://github.com/your-username/roadvision-ai.git
+git clone https://github.com/Ard-Codder/roadvision-ai.git
 cd roadvision-ai
 
 # Создание виртуального окружения
@@ -256,8 +256,8 @@ pytest
 
 ## 📞 Связь
 
-- **Issues**: [GitHub Issues](https://github.com/your-username/roadvision-ai/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-username/roadvision-ai/discussions)
+- **Issues**: [GitHub Issues](https://github.com/Ard-Codder/roadvision-ai/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/Ard-Codder/roadvision-ai/discussions)
 - **Email**: contact@roadvision-ai.com
 
 ## 🙏 Благодарности

@@ -14,7 +14,7 @@ setup(
     description="Интегрированная система детекции дороги и объектов с использованием YOLOv8 и OpenVINO",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/your-username/roadvision-ai",
+    url="https://github.com/Ard-Codder/roadvision-ai",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 4 - Beta",
@@ -63,9 +63,9 @@ setup(
     },
     keywords="computer-vision, road-detection, object-detection, yolo, openvino, segmentation, autonomous-driving, ai, artificial-intelligence",
     project_urls={
-        "Bug Reports": "https://github.com/your-username/roadvision-ai/issues",
-        "Source": "https://github.com/your-username/roadvision-ai",
-        "Documentation": "https://github.com/your-username/roadvision-ai#readme",
-        "Jetson Orin": "https://github.com/your-username/roadvision-ai/tree/main/jetson_orin",
+        "Bug Reports": "https://github.com/Ard-Codder/roadvision-ai/issues",
+        "Source": "https://github.com/Ard-Codder/roadvision-ai",
+        "Documentation": "https://github.com/Ard-Codder/roadvision-ai#readme",
+        "Jetson Orin": "https://github.com/Ard-Codder/roadvision-ai/tree/main/jetson_orin",
     },
 ) 

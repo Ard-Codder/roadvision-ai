@@ -6,8 +6,8 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org/)
 [![OpenVINO](https://img.shields.io/badge/OpenVINO-2023.1+-purple.svg)](https://www.intel.com/content/www/us/en/developer/tools/openvino-toolkit/overview.html)
 [![YOLOv8](https://img.shields.io/badge/YOLOv8-8.0+-yellow.svg)](https://github.com/ultralytics/ultralytics)
-[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20Jetson-brightgreen.svg)](https://github.com/your-username/roadvision-ai)
-[![Stars](https://img.shields.io/github/stars/your-username/roadvision-ai?style=social)](https://github.com/your-username/roadvision-ai)
+[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20Jetson-brightgreen.svg)](https://github.com/Ard-Codder/roadvision-ai)
+[![Stars](https://img.shields.io/github/stars/Ard-Codder/roadvision-ai?style=social)](https://github.com/Ard-Codder/roadvision-ai)
 
 > **Интегрированная система для детекции объектов и сегментации дороги с использованием YOLOv8 и OpenVINO**
 
@@ -70,7 +70,7 @@
 ### Быстрая установка
 ```bash
 # Клонирование репозитория
-git clone https://github.com/your-username/roadvision-ai.git
+git clone https://github.com/Ard-Codder/roadvision-ai.git
 cd roadvision-ai
 
 # Установка зависимостей
@@ -87,7 +87,7 @@ pip install roadvision-ai
 
 ### Установка в режиме разработки
 ```bash
-git clone https://github.com/your-username/roadvision-ai.git
+git clone https://github.com/Ard-Codder/roadvision-ai.git
 cd roadvision-ai
 pip install -e .
 ```
@@ -290,7 +290,7 @@ roadvision-ai/
 
 ## 📞 Поддержка
 
-- 📧 **Issues**: [GitHub Issues](https://github.com/your-username/roadvision-ai/issues)
+- 📧 **Issues**: [GitHub Issues](https://github.com/Ard-Codder/roadvision-ai/issues)
 - 📖 **Документация**: [README.md](README.md)
 - 🚀 **Jetson Orin**: [README_JETSON.md](jetson_orin/README_JETSON.md)
 - 📋 **Объекты**: [OBJECTS_SUMMARY.md](OBJECTS_SUMMARY.md)

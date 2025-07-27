@@ -61,7 +61,7 @@
 
 ### Быстрая установка
 ```bash
-git clone https://github.com/your-username/roadvision-ai.git
+git clone https://github.com/Ard-Codder/roadvision-ai.git
 cd roadvision-ai
 pip install -r requirements.txt
 python test_system.py
@@ -215,7 +215,7 @@ python road_detection_jetson.py
 - **Documentation** - улучшение документации
 
 ### Контакты
-- **GitHub**: [roadvision-ai](https://github.com/your-username/roadvision-ai)
+- **GitHub**: [roadvision-ai](https://github.com/Ard-Codder/roadvision-ai)
 - **Email**: contact@roadvision-ai.com
 - **Security**: security@roadvision-ai.com
 
