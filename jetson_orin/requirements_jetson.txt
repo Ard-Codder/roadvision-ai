@@ -1,0 +1,28 @@
+# Jetson Orin Requirements
+# Оптимизированные версии для NVIDIA Jetson Orin
+
+# Core dependencies
+numpy>=1.21.0
+opencv-python>=4.8.0
+
+# PyTorch for Jetson (CUDA optimized)
+torch>=2.0.0
+torchvision>=0.15.0
+
+# YOLOv8
+ultralytics>=8.0.0
+
+# OpenVINO for Jetson
+openvino>=2023.1.0
+
+# Additional utilities
+Pillow>=9.5.0
+requests>=2.31.0
+matplotlib>=3.7.0
+
+# Jetson specific optimizations
+nvidia-ml-py>=11.450.51
+jetson-stats>=4.0.0
+
+# Camera support
+gstreamer-python>=1.0.0 
