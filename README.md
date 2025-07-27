@@ -275,7 +275,7 @@ roadvision-ai/
 
 ## 🤝 Вклад в проект
 
-Мы приветствуем вклады от сообщества! См. [docs/project/CONTRIBUTING.md](docs/project/CONTRIBUTING.md) для подробностей.
+Мы приветствуем вклады от сообщества! См. [CONTRIBUTING.md](CONTRIBUTING.md) для подробностей.
 
 ### Как внести вклад
 1. Форкните репозиторий
@@ -299,6 +299,9 @@ roadvision-ai/
 - 🚀 **Jetson Orin**: [README_JETSON.md](jetson_orin/README_JETSON.md)
 - 📋 **Объекты**: [docs/project/OBJECTS_SUMMARY.md](docs/project/OBJECTS_SUMMARY.md)
 - 📚 **Информация о проекте**: [docs/project/PROJECT_INFO.md](docs/project/PROJECT_INFO.md)
+- 🔒 **Безопасность**: [SECURITY.md](SECURITY.md)
+- 📋 **Кодекс поведения**: [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
+- 📝 **История изменений**: [CHANGELOG.md](CHANGELOG.md)
 
 ---
 
