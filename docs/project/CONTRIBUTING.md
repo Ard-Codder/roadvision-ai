@@ -231,7 +231,7 @@ pytest
 
 ### Создание релиза
 1. Обновите версию в `setup.py`
-2. Добавьте изменения в `CHANGELOG.md`
+2. Добавьте изменения в `docs/project/CHANGELOG.md`
 3. Создайте тег:
    ```bash
    git tag -a v1.1.0 -m "Release version 1.1.0"

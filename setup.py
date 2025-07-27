@@ -67,5 +67,7 @@ setup(
         "Source": "https://github.com/Ard-Codder/roadvision-ai",
         "Documentation": "https://github.com/Ard-Codder/roadvision-ai#readme",
         "Jetson Orin": "https://github.com/Ard-Codder/roadvision-ai/tree/main/jetson_orin",
+        "Contributing": "https://github.com/Ard-Codder/roadvision-ai/blob/main/docs/project/CONTRIBUTING.md",
+        "Changelog": "https://github.com/Ard-Codder/roadvision-ai/blob/main/docs/project/CHANGELOG.md",
     },
 ) 
